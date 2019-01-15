@@ -4,9 +4,10 @@ phases:
   build:
     commands:
       - echo nothing to do yet
+
       artifacts:
         files:
-          -indext.html
-          -favicon.ico
-          styles/main.css
-          images/*
+          - indext.html
+          - favicon.ico
+          - styles/main.css
+          - images/*
